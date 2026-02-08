@@ -30,3 +30,4 @@ def display(
         print(f"\nSaved to {save_to}")
 
     plt.show()
+    plt.close()
